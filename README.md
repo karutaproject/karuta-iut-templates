@@ -1,2 +1,2 @@
-# karuta-iut-templates
-Ensemble des portfolios à importer dans Karuta pour l'application Karuta-iut
+# Templates pour K-iut
+Ensemble des portfolios à importer dans Karuta pour l'application K-iut
